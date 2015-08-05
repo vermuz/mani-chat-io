@@ -1,0 +1,4 @@
+applications:
+- name: ChatIO
+  memory: 128M
+  command: node app.js
